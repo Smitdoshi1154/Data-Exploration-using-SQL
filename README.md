@@ -11,6 +11,8 @@ This repository includes the following files:
 
 **Covid_Deaths.xlsx**: Real-Time COVID-19 data related to deaths in excel format
 
+Click [here](https://drive.google.com/drive/folders/1ra5qD-8JilcCakcxYTMar0_CT5vq1zsr?usp=sharing) for the above datasets.
+
 **Covid_Data_Exploration.sql**:  SQL script to query and analyze the COVID-19 data
 
 ## SQL Queries
