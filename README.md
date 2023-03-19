@@ -19,7 +19,7 @@ Click [here](https://drive.google.com/drive/folders/1ra5qD-8JilcCakcxYTMar0_CT5v
 The Covid_Data_Exploration.sql file contains SQL queries that can be used to explore and analyze COVID-19 data. The queries include examples of aggregate functions, common table expressions (CTEs), as well as all the other command prompts like SELECT, FROM, ORDER BY, GROUP BY, and CAST.
 
 ## How to use
-To get started, you can download the covid_data.csv file and import it into your preferred SQL database management system. You can then run the SQL queries in the covid_data.sql file to explore and analyze the data.
+To get started, you can download the Covid_Vaccinations.xlsx and Covid_deaths.xlsx files and import it into your preferred SQL database management system. You can then run the SQL queries in the Covid_Data_Exploration.sql file to explore and analyze the data.
 
 ## Conclusion
 
