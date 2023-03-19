@@ -7,9 +7,11 @@ The dataset used for this analysis is the COVID-19 dataset, which is updated dai
 ## Contents
 This repository includes the following files:
 
-Covid_Vaccinations.xlsx: Real-Time COVID-19 data related to Vaccinations in excel format
-Covid_Deaths.xlsx: Real-Time COVID-19 data related to deaths in excel format
-Covid_Data_Exploration.sql:  SQL script to query and analyze the COVID-19 data
+**Covid_Vaccinations.xlsx**: Real-Time COVID-19 data related to Vaccinations in excel format
+
+**Covid_Deaths.xlsx**: Real-Time COVID-19 data related to deaths in excel format
+
+**Covid_Data_Exploration.sql**:  SQL script to query and analyze the COVID-19 data
 
 ## SQL Queries
 The Covid_Data_Exploration.sql file contains SQL queries that can be used to explore and analyze COVID-19 data. The queries include examples of aggregate functions, common table expressions (CTEs), as well as all the other command prompts like SELECT, FROM, ORDER BY, GROUP BY, and CAST.
