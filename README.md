@@ -7,11 +7,9 @@ The dataset used for this analysis is the COVID-19 dataset, which is updated dai
 ## Contents
 This repository includes the following files:
 
-**Covid_Vaccinations.xlsx**: Real-Time COVID-19 data related to Vaccinations in excel format
+**[Covid_Vaccinations.xlsx](https://drive.google.com/drive/folders/1ra5qD-8JilcCakcxYTMar0_CT5vq1zsr?usp=sharing)**: Real-Time COVID-19 data related to Vaccinations in excel format
 
-**Covid_Deaths.xlsx**: Real-Time COVID-19 data related to deaths in excel format
-
-Click [here](https://drive.google.com/drive/folders/1ra5qD-8JilcCakcxYTMar0_CT5vq1zsr?usp=sharing) for the above datasets.
+**[Covid_Deaths.xlsx](https://drive.google.com/drive/folders/1ra5qD-8JilcCakcxYTMar0_CT5vq1zsr?usp=sharing)**: Real-Time COVID-19 data related to deaths in excel format
 
 **Covid_Data_Exploration.sql**:  SQL script to query and analyze the COVID-19 data
 
